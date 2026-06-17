@@ -22,7 +22,7 @@ The model is trained to detect the following categories:
 
 - **Source:** Public dataset from Kaggle
 - **Format:** Folder-per-class structure (standard for YOLOv8 classification)
-- **Structure:**
+- [**Structure:**](https://www.kaggle.com/datasets/jhamilgutierrez/juice-box-straw-defects)
   ```
   dataset/
   ├── train/
